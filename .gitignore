@@ -426,3 +426,14 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+
+# Temporary files
+*.tmp
